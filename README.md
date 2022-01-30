@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diogo Menezes
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Linux, ShellScripts, Phyton
+- 🌱 I’m currently learning Linux, ShellScripts, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
